@@ -12,5 +12,6 @@ class Program
         double quantidadeLitros = distancia / 12;
 
         Console.WriteLine($"{quantidadeLitros}");
+        //quem ler é um ze ruela
     }
 }
